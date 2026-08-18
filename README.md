@@ -75,4 +75,4 @@ Developed for the Real-Time Systems module (BSc (Hons) Computer Science, Asia Pa
 
 ## Author
 
-**Abdelrahman Zakaria Abu Reidy** — [github.com/AbdelrahmanAbuReidy](https://github.com/AbdelrahmanAbuReidy)
+**Abdelrahman Abu Reidy** — [github.com/AbdelrahmanAbuReidy](https://github.com/AbdelrahmanAbuReidy)
